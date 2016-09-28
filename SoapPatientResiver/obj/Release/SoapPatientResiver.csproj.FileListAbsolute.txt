@@ -1,0 +1,26 @@
+Z:\Максим Юрьевич (Программист)\ТФОМС ЕИР\SoapPatientResiver(fromMAx)1\SoapPatientResiver\bin\Release\Выгрузка Спииска пациентов.exe.config
+Z:\Максим Юрьевич (Программист)\ТФОМС ЕИР\SoapPatientResiver(fromMAx)1\SoapPatientResiver\obj\Release\Interop.MSXML2.dll
+Z:\Максим Юрьевич (Программист)\ТФОМС ЕИР\SoapPatientResiver(fromMAx)1\SoapPatientResiver\obj\Release\SoapPatientResiver.csproj.ResolveComReference.cache
+Z:\Максим Юрьевич (Программист)\ТФОМС ЕИР\SoapPatientResiver(fromMAx)1\SoapPatientResiver\bin\Release\Выгрузка Спииска пациентов.exe
+Z:\Максим Юрьевич (Программист)\ТФОМС ЕИР\SoapPatientResiver(fromMAx)1\SoapPatientResiver\bin\Release\Выгрузка Спииска пациентов.pdb
+Z:\Максим Юрьевич (Программист)\ТФОМС ЕИР\SoapPatientResiver(fromMAx)1\SoapPatientResiver\bin\Release\Npgsql.dll
+Z:\Максим Юрьевич (Программист)\ТФОМС ЕИР\SoapPatientResiver(fromMAx)1\SoapPatientResiver\obj\Release\SoapPatientResiver.Form1.resources
+Z:\Максим Юрьевич (Программист)\ТФОМС ЕИР\SoapPatientResiver(fromMAx)1\SoapPatientResiver\obj\Release\SoapPatientResiver.ftmSelectDubliesQueryType.resources
+Z:\Максим Юрьевич (Программист)\ТФОМС ЕИР\SoapPatientResiver(fromMAx)1\SoapPatientResiver\obj\Release\SoapPatientResiver.Properties.Resources.resources
+Z:\Максим Юрьевич (Программист)\ТФОМС ЕИР\SoapPatientResiver(fromMAx)1\SoapPatientResiver\obj\Release\SoapPatientResiver.csproj.GenerateResource.Cache
+Z:\Максим Юрьевич (Программист)\ТФОМС ЕИР\SoapPatientResiver(fromMAx)1\SoapPatientResiver\obj\Release\Выгрузка Спииска пациентов.exe
+Z:\Максим Юрьевич (Программист)\ТФОМС ЕИР\SoapPatientResiver(fromMAx)1\SoapPatientResiver\obj\Release\Выгрузка Спииска пациентов.pdb
+Z:\Максим Юрьевич (Программист)\ТФОМС ЕИР\SoapPatientResiver(fromMAx)1\SoapPatientResiver\obj\Release\SoapPatientResiver.csprojResolveAssemblyReference.cache
+C:\Users\saksin_mm\Desktop\SoapPatientResiver(fromMAx)2\SoapPatientResiver\bin\Release\Выгрузка Спииска пациентов.exe.config
+C:\Users\saksin_mm\Desktop\SoapPatientResiver(fromMAx)2\SoapPatientResiver\obj\Release\Interop.MSXML2.dll
+C:\Users\saksin_mm\Desktop\SoapPatientResiver(fromMAx)2\SoapPatientResiver\obj\Release\SoapPatientResiver.csproj.ResolveComReference.cache
+C:\Users\saksin_mm\Desktop\SoapPatientResiver(fromMAx)2\SoapPatientResiver\obj\Release\Выгрузка Спииска пациентов.exe
+C:\Users\saksin_mm\Desktop\SoapPatientResiver(fromMAx)2\SoapPatientResiver\obj\Release\Выгрузка Спииска пациентов.pdb
+C:\Users\saksin_mm\Desktop\SoapPatientResiver(fromMAx)2\SoapPatientResiver\bin\Release\Выгрузка Спииска пациентов.exe
+C:\Users\saksin_mm\Desktop\SoapPatientResiver(fromMAx)2\SoapPatientResiver\bin\Release\Выгрузка Спииска пациентов.pdb
+C:\Users\saksin_mm\Desktop\SoapPatientResiver(fromMAx)2\SoapPatientResiver\bin\Release\Npgsql.dll
+C:\Users\saksin_mm\Desktop\SoapPatientResiver(fromMAx)2\SoapPatientResiver\obj\Release\SoapPatientResiver.csprojResolveAssemblyReference.cache
+C:\Users\saksin_mm\Desktop\SoapPatientResiver(fromMAx)2\SoapPatientResiver\obj\Release\SoapPatientResiver.Form1.resources
+C:\Users\saksin_mm\Desktop\SoapPatientResiver(fromMAx)2\SoapPatientResiver\obj\Release\SoapPatientResiver.ftmSelectDubliesQueryType.resources
+C:\Users\saksin_mm\Desktop\SoapPatientResiver(fromMAx)2\SoapPatientResiver\obj\Release\SoapPatientResiver.Properties.Resources.resources
+C:\Users\saksin_mm\Desktop\SoapPatientResiver(fromMAx)2\SoapPatientResiver\obj\Release\SoapPatientResiver.csproj.GenerateResource.Cache
